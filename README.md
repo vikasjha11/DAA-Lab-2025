@@ -1,63 +1,44 @@
-DAA Lab 2025
+# 🎯 DAA Lab 2025
 
-Overview
+## 📌 Overview
+Welcome to the **Design and Analysis of Algorithms (DAA) Lab 2025** repository! This repository contains all lab assignments, projects, and algorithm implementations that explore fundamental and advanced algorithmic concepts.
 
-This repository contains all the Design and Analysis of Algorithms (DAA) lab assignments and projects for the year 2025. The implementations focus on various algorithmic paradigms, optimization techniques, and complexity analysis.
+## 📂 Repository Contents
+- 📝 **Lab Programs:** Implementations of essential algorithms covered in the DAA syllabus.
+- 📊 **Reports & Analysis:** Detailed explanations, time complexity analysis, and performance evaluations.
 
-Contents
+## 🛠️ Technologies Used
+- **Programming Language:** C++
+- **Tools & Libraries:** STL (Standard Template Library), Graph visualization tools, Debugging tools
 
-The repository includes:
+## 📖 Topics Covered
+✅ Sorting Algorithms (Merge Sort, Quick Sort, etc.)  
+✅ Divide and Conquer Techniques  
+✅ Dynamic Programming  
+✅ Greedy Algorithms  
+✅ Graph Algorithms (Dijkstra, Floyd-Warshall, etc.)  
+✅ NP-Completeness and Approximation Algorithms  
 
-Lab Assignments: Implementations of key algorithms covered in the DAA syllabus.
+## 🚀 How to Run the Code
+1️⃣ Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/daa-lab-2025.git
+   ```
+2️⃣ Navigate to the project directory:
+   ```sh
+   cd daa-lab-2025
+   ```
+3️⃣ Compile and run C++ programs:
+   ```sh
+   g++ filename.cpp -o output
+   ./output
+   ```
 
-Project-Based Learning (PBL): A project demonstrating the application of algorithmic techniques.
+## 🤝 Contribution
+Contributions are welcome! Feel free to submit pull requests, report issues, or suggest improvements.
 
-Reports & Analysis: Detailed explanations, time complexity analysis, and performance evaluations of algorithms.
+## 👨‍💻 Author
+📌 [Vikas Kumar Jha](https://github.com/yourusername)
 
-Technologies Used
-
-Programming Language: C++
-
-Tools & Libraries: Standard Template Library (STL), Graph visualization tools, and debugging tools
-
-Topics Covered
-
-Sorting Algorithms (Merge Sort, Quick Sort, etc.)
-
-Divide and Conquer Techniques
-
-Dynamic Programming
-
-Greedy Algorithms
-
-Graph Algorithms (Dijkstra, Floyd-Warshall, etc.)
-
-NP-Completeness and Approximation Algorithms
-
-How to Run the Code
-
-Clone the repository:
-
-git clone https://github.com/yourusername/daa-lab-2025.git
-
-Navigate to the project directory:
-
-cd daa-lab-2025
-
-Compile and run C++ programs:
-
-g++ filename.cpp -o output
-./output
-
-Contribution
-
-Feel free to contribute by submitting pull requests, reporting issues, or suggesting improvements.
-
-Author
-
-Vikas Kumar Jha
-
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
+## 📜 License
+This project is licensed under the **MIT License** - see the LICENSE file for details.

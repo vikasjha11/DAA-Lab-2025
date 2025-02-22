@@ -1,6 +1,8 @@
-//Date : 3/feb/25
-#include <iostream>
-#include <cmath>
+/*Date : 3/feb/25
+Jump Search*/
+
+
+#include <bits/stdc++.h>
 using namespace std;
 
 void jumpSearch(int arr[], int n, int key) {

@@ -1,5 +1,6 @@
-//Date : 10/feb/25
-#include <iostream>
+/*Date : 10/feb/25
+Given a sorted array of positive integers, design an algorithm and implement it using a program to find three indices i, j, k such that arr[i] + arr[j] = arr[k].*/
+#include <bits/stdc++.h>
 using namespace std;
 
 void findTriplets(int arr[], int n) {

@@ -1,6 +1,6 @@
-//Date: 10/feb/25
-#include <iostream>
-#include <unordered_map>
+/*Date: 10/feb/25
+Given an array of nonnegative integers, design an algorithm and a program to count the number of pairs of integers such that their difference is equal to a given key, K.*/
+#include <bits/stdc++.h>
 using namespace std;
 
 void countPairs(int arr[], int n, int k) {

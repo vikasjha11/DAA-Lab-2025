@@ -1,7 +1,7 @@
 # 🎯 DAA Lab 2025
 
 ## 📌 Overview
-Welcome to the **Design and Analysis of Algorithms (DAA) Lab 2025** repository! This repository contains all lab assignments, projects, and algorithm implementations that explore fundamental and advanced algorithmic concepts.
+Welcome to the **Design and Analysis of Algorithms (DAA) Lab 2025** repository! This repository contains all lab problems, and algorithm implementations that explore fundamental and advanced algorithmic concepts.
 
 ## 📂 Repository Contents
 - 📝 **Lab Programs:** Implementations of essential algorithms covered in the DAA syllabus.

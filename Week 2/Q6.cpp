@@ -1,5 +1,6 @@
 /*Date: 10/feb/25
-Given an array of nonnegative integers, design an algorithm and a program to count the number of pairs of integers such that their difference is equal to a given key, K.*/
+Count pairs in a nonnegative integer array where the difference equals K using an efficient algorithm.*/
+
 #include <bits/stdc++.h>
 using namespace std;
 

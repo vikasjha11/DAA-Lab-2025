@@ -1,5 +1,5 @@
 /*Date : 10/feb/25
-Given a sorted array of positive integers, design an algorithm and implement it using a program to find three indices i, j, k such that arr[i] + arr[j] = arr[k].*/
+Given a sorted array of positive integers, design an O(n²) algorithm to find indices i, j, k such that arr[i] + arr[j] = arr[k] and implement it.*/
 #include <bits/stdc++.h>
 using namespace std;
 

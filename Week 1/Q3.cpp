@@ -1,5 +1,5 @@
 /*Date : 3/feb/25
-Jump Search*/
+Prog: Jump Search*/
 
 
 #include <bits/stdc++.h>

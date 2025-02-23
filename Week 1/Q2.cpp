@@ -1,5 +1,5 @@
 /*Date: 3/feb/25
-Given an already sorted array of positive integers, design an algorithm and implement it using a program to find whether given key element is present in the array or not. Also, find total number of comparisons for each input case. (Time Complexity = O(nlogn), where n is the size of input).*/
+Prog: Binary Search.*/
 
 
 #include <bits/stdc++.h>

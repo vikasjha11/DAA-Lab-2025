@@ -1,6 +1,9 @@
-//Date: 17/2/25
+/*Date: 17/2/25
+Prog: Insertion Sort*/
+
 #include <iostream>
 using namespace std;
+
 void insertion(int arr[],int n)
 {
     int c=0,shift=0;

@@ -38,7 +38,7 @@ Welcome to the **Design and Analysis of Algorithms (DAA) Lab 2025** repository! 
 Contributions are welcome! Feel free to submit pull requests, report issues, or suggest improvements.
 
 ## 👨‍💻 Author
-📌 [Vikas Kumar Jha](https://github.com/yourusername)
+📌 [Vikas Kumar Jha](https://github.com/vikasjha11)
 
 ## 📜 License
 This project is licensed under the **MIT License** - see the LICENSE file for details.

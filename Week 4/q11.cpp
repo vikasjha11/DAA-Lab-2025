@@ -1,3 +1,5 @@
+/*Date: 17/2/25
+Prog:Quick Sort.*/
 #include <bits/stdc++.h>
 using namespace std;
 

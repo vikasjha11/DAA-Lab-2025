@@ -19,26 +19,8 @@ Welcome to the **Design and Analysis of Algorithms (DAA) Lab 2025** repository! 
 ✅ Graph Algorithms (Dijkstra, Floyd-Warshall, etc.)  
 ✅ NP-Completeness and Approximation Algorithms  
 
-## 🚀 How to Run the Code
-1️⃣ Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/daa-lab-2025.git
-   ```
-2️⃣ Navigate to the project directory:
-   ```sh
-   cd daa-lab-2025
-   ```
-3️⃣ Compile and run C++ programs:
-   ```sh
-   g++ filename.cpp -o output
-   ./output
-   ```
 
-## 🤝 Contribution
-Contributions are welcome! Feel free to submit pull requests, report issues, or suggest improvements.
 
 ## 👨‍💻 Author
 📌 [Vikas Kumar Jha](https://github.com/vikasjha11)
 
-## 📜 License
-This project is licensed under the **MIT License** - see the LICENSE file for details.

@@ -9,7 +9,7 @@ Welcome to the **Design and Analysis of Algorithms (DAA) Lab 2025** repository! 
 
 ## 🛠️ Technologies Used
 - **Programming Language:** C++
-- **Tools & Libraries:** STL (Standard Template Library), Graph visualization tools, Debugging tools
+- **Tools & Libraries:** STL (Standard Template Library)
 
 ## 📖 Topics Covered
 ✅ Sorting Algorithms (Merge Sort, Quick Sort, etc.)  

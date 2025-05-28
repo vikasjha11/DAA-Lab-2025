@@ -1,4 +1,4 @@
-/*Date: 28/Apr/2025
+/*Date: 19/May/2025
 Prog. Find the minimum number of scalar multiplications to multiply a chain of matrices optimally.*/
 
 #include <bits/stdc++.h>

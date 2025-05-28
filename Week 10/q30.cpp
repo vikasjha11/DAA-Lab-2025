@@ -1,4 +1,4 @@
-/*Date: 28/Apr/2025
+/*Date: 12/May/2025
 Prog. Check if majority element exists in an array and find the median.*/
 
 #include <bits/stdc++.h>

@@ -1,4 +1,4 @@
-/*Date: 28/Apr/2025
+/*Date: 19/May/2025
 Prog. Check if array can be partitioned into two subsets with equal sum.*/
 
 #include <bits/stdc++.h>

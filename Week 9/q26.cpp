@@ -1,4 +1,4 @@
-/*Date: 28/Apr/2025
+/*Date: 12/May/2025
 Prog. Solve the Fractional Knapsack problem using a greedy strategy to maximize total value. */
 
 #include <bits/stdc++.h>

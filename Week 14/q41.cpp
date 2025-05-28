@@ -1,4 +1,4 @@
-/*Date: 28/Apr/2025
+/*Date: 26/May/2025
 Prog. Find mother vertex in a directed graph*/
 
 #include <bits/stdc++.h>

@@ -1,4 +1,4 @@
-/*Date: 28/Apr/2025
+/*Date: 26/May/2025
 Prog. Find two distinct pairs (a,b) and (c,d) such that a*b = c*d in the array.*/
 
 #include <bits/stdc++.h>

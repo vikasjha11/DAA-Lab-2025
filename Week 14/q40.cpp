@@ -1,4 +1,4 @@
-/*Date: 28/Apr/2025
+/*Date: 26/May/2025
 Prog. Find nth ugly number for multiple test cases.*/
 
 #include <bits/stdc++.h>

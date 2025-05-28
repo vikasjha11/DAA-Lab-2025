@@ -1,4 +1,4 @@
-/*Date: 28/Apr/2025
+/*Date: 19/May/2025
 Prog. Solve 0-1 knapsack to find max value and print selected items with weights and values.*/
 
 #include <bits/stdc++.h>

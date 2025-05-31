@@ -13,7 +13,7 @@ Welcome to the **Design and Analysis of Algorithms (DAA) Lab 2025** repository! 
 
 ## 📖 Topics Covered
 ✅ Sorting Algorithms (Merge Sort, Quick Sort, etc.)  
-✅ Divide and Conquer Techniques  
+ Divide and Conquer Techniques  
 ✅ Dynamic Programming  
 ✅ Greedy Algorithms  
 ✅ Graph Algorithms (Dijkstra, Floyd-Warshall, etc.)  
